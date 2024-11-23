@@ -1,8 +1,8 @@
 package resources
 
 import (
-	d "github.com/monarko/fhirgo/STU3/datatypes"
-	"github.com/monarko/fhirgo/schema"
+	d "github.com/null-none/fhirgo/STU3/datatypes"
+	"github.com/null-none/fhirgo/schema"
 )
 
 // Patient resource
